@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Uygulama</string>
+    <string name="isim">ANASAYFA</string>
+    <string name="adsoyad">ERAY SİVRİ</string>
+    <string name="biografi">Merhaba. Ben eray sivri. Şuanda Arel Üniversitesinde
+        Bilgisayar Programcılığı bölümünü okumaktayım.
+    Şuan da en yakın hedefim DGS sınavını kazanıp başarılı bir Bilgisayar Mühendisi olabilmek.</string>
+</resources>
